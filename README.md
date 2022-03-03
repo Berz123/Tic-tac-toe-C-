@@ -1,2 +1,2 @@
-# Tic-tac-toe-C-
+# Tic-tac-toe In C++ 
 Just a practicing c++ 
